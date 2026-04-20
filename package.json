@@ -4,7 +4,7 @@
   "description": "activity for demonstrating inquirer with mysql",
   "main": "greatBayBasic.js",
   "dependencies": {
-    "inquirer": "^6.2.1",
+    "inquirer": "^13.4.2",
     "mysql": "^2.16.0"
   }
 }
